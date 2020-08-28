@@ -1,0 +1,7 @@
+odoo:
+  server:
+    url:  https://sfinx.odoo.com
+    db: sfinx
+    username: asalinas@sfinx.com.mx
+    password: blink182
+    defaultId: 0
